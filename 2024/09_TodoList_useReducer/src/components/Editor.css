@@ -1,0 +1,19 @@
+.editor {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+.editor input {
+  flex: 1;
+  padding: 15px;
+  border-radius: 5px;
+  border: 1px solid rgb(220, 220, 220);
+}
+.editor button {
+  width: 80px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(37, 147, 255);
+  cursor: pointer;
+}

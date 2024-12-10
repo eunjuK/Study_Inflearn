@@ -1,0 +1,8 @@
+.header .title {
+  font-size: 18px;
+}
+.header .date {
+  display: block;
+  font-size: 30px;
+  color: rgba(37, 147, 255);
+}
